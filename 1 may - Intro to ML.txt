@@ -1,0 +1,102 @@
+(1-05-26) --->
+
+MACHINE LEARNING (ML) == MACHINE + LEARNING
+
+
+
+MACHINE LEARNING 
+     |
+ _________________________________________________________
+|                                                         |
+SUPERVISED LEARNING                                     UNSUPERVISED LEARNNING
+          |                                                       | 
+ _________v___________                                         CLUSTERING
+|                     |
+CLASSIFICATION       REGRESSION
+
+
+
+
+
+7 STEPS  OF MACHINE LEARNING ==>
+1. GATHERING DATA
+2. PREPARING THAT DATA
+3. CHOOSING A MODEL
+4. TRAINING
+5. EVALUATION
+6. HYPERPARAMETER TUNING
+7. PREDICTION
+
+
+
+Historical data -- 
+  training phase
+  testing phase
+
+Future data-- validation phase
+
+to build machine learning model we must need to understand training phase ,testing phase, validation phase
+
+using machine learning we build predictive model which save company loss
+  company can forecast (next query -- 1% profit) 10%
+
+definition : ML -- It is the field of study that gives computer are capacity to learn without being explicitly programmed.
+  
+
+    (Input)    |----------------------------|
+Data --------> |  Traditional programming   |---------> Output 
+               |                            |
+Program ------>|----------------------------| 
+
+
+
+                       |-------------|  
+Data (INPUT) --------> |  Machine    |
+                       | Learning    |-------->
+ Output -------------> |             | Program
+                       |-------------|
+
+                     -------------------------------
+                     |   Artificial Intelligence    |
+                     |                              |  
+                     |   |----------------------|   |
+                     |   |    Machine Learning  |   |
+                     |   |  ------------------- |   | 
+                     |   |  |   Deep Learning | |   |
+                     |   |  |                 | |   |
+                     |   |   ------------------ |   |        
+                     |   |----------------------|   |
+                     |------------------------------|
+
+
+Machine learn using help of library -- sckit learn , xgboost , lgbm
+ml framework 
+   sklearn (scikit learn)
+   xgboost (Xtream gradient boosting)
+   lgbm    (light gradient boosting)
+
+
+training phase
+texting phase
+
+
+very very important is training phase
+
+pipeline --- >
+
+1. We must have dataset to build ml model
+2. attribute understanding of the dataset | business understanding clear
+3. divide the dataset into x-- iv & y -- dv
+4. x -- x train & x - test
+5. y -- y-train & y - test
+6. split ratio 80-20 , 70-30, 75-25
+
+
+
+
+
+
+
+
+
+

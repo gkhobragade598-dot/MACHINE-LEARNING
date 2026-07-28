@@ -1,0 +1,18 @@
+
+(2-05-26)
+
+Transformer -- sklearn.impute import SimpleImputer --> library will fill missing value data has any missing value
+
+
+Simple Imputer -->Simple Imputer is a pre-processing tool in scikit-learn that is used to fill (impute) missing values (NaN) in a dataset.
+
+
+FIT & Transform --> FIT will fill the all empty values present in the data and transform it.
+
+
+LabelEncoder --> LabelEncoder is a preprocessing tool in scikit-learn that converts categorical (text) values into numerical values.
+
+
+random_state=0 is used to make your results reproducible. It ensures that every time you run your code, the "random" operations produce the same output.
+Agar random state =0 nai rega tho , har baar model ka training update hote rega jiss ke karan model ki accuracy me changes aate rhenege.
+ 

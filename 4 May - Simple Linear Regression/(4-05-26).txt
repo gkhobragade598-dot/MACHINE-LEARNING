@@ -1,0 +1,17 @@
+
+(4-05-26)
+
+ 
+========================
+SIMPLE LINEAR REGRESSION
+========================
+
+[ Y= MX+C ]
+
+Y --> it is the MEAN of Y column
+X --> it is the MEAN of X column
+M(Slope) =>  summation (x - x^) (y - y^) / summation (x -x^)^2
+
+
+MEAN SQUARE ERROR ==>
+Distance between ACTUAL & PREDICTED VALUE

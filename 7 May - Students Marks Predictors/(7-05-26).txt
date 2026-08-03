@@ -1,0 +1,5 @@
+(7-05-26)
+
+joblib is library for SERIALIZATION
+joblib.dump
+joblib.load

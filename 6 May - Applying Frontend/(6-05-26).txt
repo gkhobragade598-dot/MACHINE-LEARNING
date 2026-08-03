@@ -1,0 +1,6 @@
+(6-05-26)
+
+If I wanted pass this code to Frontend , let me convert all  code & regression model has parameter I will convert to pickle file.
+When pickle file then entire Python code ( object --> regression converted to byte file )
+
+

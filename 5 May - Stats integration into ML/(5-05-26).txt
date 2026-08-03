@@ -1,0 +1,39 @@
+(5-05-26)
+
+build the model  -- we need to train the data
+
+x_train & y_train --> BIAS
+Training part of a MODEL is called [BIAS]
+Testing part of a MODEL is called [VARIANCE]
+
+
+Every model has 3 score 
+MODEL SCORE
+BIAS SCORE 
+VARIANCE SCORE
+
+
+=====
+model score -- 0.94 | training score (bias) -- 0.94 | testing score (variance) -- 0.98
+this all lie under same consequence , hence it is a BEST FIT MODEL
+
+model score  -- 0.94 | bias  -- 0.3 | variance  -- 0.98 [ low Bias high Variance]
+this is OVERFITTING TECHNIQUE 
+
+
+model score  -- 0.94 | bias  -- 0.92 | variance  -- 0.4 [ high Bias low Variance ]
+this is UNDERFITTING TECHNIQUE 
+
+
+if model OverFit then ==>
+1. pca ( principle component analysis)
+2. regularization technique
+3. cross validation
+4. drop out the neuron --( deep learning)
+5. ensemble learning
+
+
+if model UNDERFITS then ==>
+ we need to add more relevant attribute
+
+
